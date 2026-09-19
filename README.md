@@ -1,1 +1,1 @@
-<img src="https://files.catbox.moe/tmwved.jpg" alt="Alt Text" width="500">
+<img src="https://files.catbox.moe/drj2gp.jpg" alt="Alt Text" width="500">
